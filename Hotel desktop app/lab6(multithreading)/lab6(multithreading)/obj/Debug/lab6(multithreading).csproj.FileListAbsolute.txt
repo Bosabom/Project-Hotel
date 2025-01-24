@@ -1,0 +1,11 @@
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\bin\Debug\lab6(multithreading).exe.config
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\bin\Debug\lab6(multithreading).exe
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\bin\Debug\lab6(multithreading).pdb
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6(multithreading).csprojAssemblyReference.cache
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6_multithreading_.Form1.resources
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6_multithreading_.Properties.Resources.resources
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6(multithreading).csproj.GenerateResource.cache
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6(multithreading).csproj.CoreCompileInputs.cache
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6(multithreading).exe
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6(multithreading).pdb
+D:\Apps(c#)\lab6(multithreading)\lab6(multithreading)\obj\Debug\lab6_multithreading_.Report_From_XML.resources
